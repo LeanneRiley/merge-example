@@ -1,1 +1,2 @@
 This is another file I need to store info
+Editing this file to perform a merge with the main branch! 
